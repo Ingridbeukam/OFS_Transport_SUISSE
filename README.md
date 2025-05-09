@@ -44,6 +44,15 @@ Ce projet Power BI analyse les données de l’Office fédéral de la statistiqu
 
 ## 💡 Insights possibles
 
+## 📊 KPIs suivis
+
+- **Total des accidents**
+- **Total des accidents mortels**
+- **Accidents avec blessés graves**
+- **Accidents avec blessés légers**
+- **Croissance annuelle des accidents**
+- **Moyenne mensuelle des accidents**
+
 ### 🚦 Analyse des accidents
 - Évolution annuelle des accidents en Suisse
 - Comparaison entre types d'accidents, genres de routes, et niveaux de gravité
