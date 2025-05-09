@@ -64,6 +64,7 @@ Ce projet Power BI analyse les données de l’Office fédéral de la statistiqu
 - Visualisation des tendances saisonnières ou cycliques
 
 ### Résumé de l'analyse des accidents (2014 - 2024)
+
 ##Fréquence des blessures et des décès :
 
 Blessés légers : La majorité des accidents concernent des personnes blessées légèrement.
@@ -72,7 +73,7 @@ Blessés graves : Les accidents avec des blessés graves sont plus fréquents qu
 
 Décès : Les accidents mortels sont beaucoup moins fréquents par rapport aux autres types de blessures, ce qui pourrait indiquer que la sécurité routière a légèrement amélioré ou que les protocoles de secours sont plus efficaces.
 
-Analyse mensuelle des accidents :
+##Analyse mensuelle des accidents :
 
 Juin et septembre sont les mois qui enregistrent le plus grand nombre d'accidents au cours des 10 dernières années. Cela peut être dû à des facteurs saisonniers comme les vacances d'été, l'augmentation du trafic ou des conditions météorologiques variables.
 
@@ -91,8 +92,9 @@ Accidents par tamponnement : Les collisions par tamponnement sont également fr�
 Accidents lors d'un retour à droite : Ce type d'accident est également courant, ce qui pourrait indiquer une mauvaise signalisation ou des erreurs de conduite lors de la manœuvre.
 
 ##Suggestions pour des analyses supplémentaires :
+
 #Analyse par canton :
-Comme tu l'as mentionné, il aurait été intéressant d'avoir des informations détaillées par canton. Cela permettrait de voir s'il existe des disparités entre les différentes régions en termes de fréquence des accidents, de types de routes impliquées, ou encore des profils de conducteurs. Cette analyse géographique pourrait aider à cibler les zones nécessitant des améliorations en matière de sécurité routière.
+Il aurait été intéressant d'avoir des informations détaillées par canton. Cela permettrait de voir s'il existe des disparités entre les différentes régions en termes de fréquence des accidents, de types de routes impliquées, ou encore des profils de conducteurs. Cette analyse géographique pourrait aider à cibler les zones nécessitant des améliorations en matière de sécurité routière.
 
 #Facteurs météorologiques :
 Une analyse supplémentaire pourrait être menée en incluant les conditions météorologiques lors des accidents. Par exemple, des accidents plus fréquents en période de pluie, de neige ou de brouillard pourraient être mis en évidence, permettant ainsi d'adapter les politiques de sécurité.
