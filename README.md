@@ -91,7 +91,7 @@ Accidents par tamponnement : Les collisions par tamponnement sont également fr�
 
 Accidents lors d'un retour à droite : Ce type d'accident est également courant, ce qui pourrait indiquer une mauvaise signalisation ou des erreurs de conduite lors de la manœuvre.
 
-##Suggestions pour des analyses supplémentaires :
+###Suggestions pour des analyses supplémentaires :
 
 #Analyse par canton :
 Il aurait été intéressant d'avoir des informations détaillées par canton. Cela permettrait de voir s'il existe des disparités entre les différentes régions en termes de fréquence des accidents, de types de routes impliquées, ou encore des profils de conducteurs. Cette analyse géographique pourrait aider à cibler les zones nécessitant des améliorations en matière de sécurité routière.
