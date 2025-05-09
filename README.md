@@ -42,8 +42,6 @@ Ce projet Power BI analyse les données de l’Office fédéral de la statistiqu
 
 ---
 
-## 💡 Insights possibles
-
 ## 📊 KPIs suivis
 
 - **Total des accidents**
@@ -52,6 +50,9 @@ Ce projet Power BI analyse les données de l’Office fédéral de la statistiqu
 - **Accidents avec blessés légers**
 - **Croissance annuelle des accidents**
 - **Moyenne mensuelle des accidents**
+  
+
+## 💡 Insights possibles
 
 ### 🚦 Analyse des accidents
 - Évolution annuelle des accidents en Suisse
